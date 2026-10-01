@@ -18,9 +18,13 @@ A privacy-first visual gut journal that turns an awkward health record into a co
 
 Interactive software and visual product experiments. Public project notes and builds are being organized.
 
+[GitHub](https://github.com/version-verse-IT)
+
 ### CORNVEN
 
 Creator-commerce and product-development work, including AI-native operations and internal workflow automation.
+
+[Website](https://www.cornven.com/)
 
 ## Current focus
 
